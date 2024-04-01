@@ -26,7 +26,7 @@ Assistant will be given to get pull requests working correctly.
 
 ## Server Admins
 
-Dionysus uses the same paperclip jar system that Paper uses.  
+Dionysus uses the same paperclip jar system that Paper uses；  
 You can download the latest release of Dionysus [here](https://github.com/nopjmp/Dionysus/releases/latest).   
 You can also [build it yourself](https://github.com/nopjmp/Dionysus#building)
 
